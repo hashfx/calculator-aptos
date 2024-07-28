@@ -13,3 +13,9 @@
 + when prompted, type testnet and press <kbd>Enter</kbd>
 + enter your private key from Aptos Wallet (Petra)
 + create a move package ```aptos move init --name calculator_app```
+
+### Compile Move Script
++ ```aptos move compile```
+
+### Deplot the Code
++ ```aptos move publish```
