@@ -17,5 +17,5 @@
 ### Compile Move Script
 + ```aptos move compile```
 
-### Deplot the Code
+### Deploy the Code
 + ```aptos move publish```
